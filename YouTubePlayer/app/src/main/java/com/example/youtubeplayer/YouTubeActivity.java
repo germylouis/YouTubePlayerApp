@@ -16,11 +16,11 @@ import com.google.android.youtube.player.YouTubePlayerView;
 public class YouTubeActivity extends YouTubeBaseActivity
         implements YouTubePlayer.OnInitializedListener {
     private static final String TAG = "YouTubeActivity";
-    static final String GOOGLE_API_KEY = "AIzaSyBa-VabhhOceOIBbIOf5o9pcUkhP6qSDlc";
+    static final String GOOGLE_API_KEY = "TODO";
     static final String YOTUBE_VIDEO_ID = "q_hBf1ghAGE";
     static final String YOUTUBE_PLAYLIST = "PLcq6prxrEEUrogAxV3vptY16QpKUFQyYb";
 
-    //https://www.youtube.com/watch?v=q_hBf1ghAGE&list=PLcq6prxrEEUrogAxV3vptY16QpKUFQyYb&index=65&t=0s
+    //https://www.youtube.com/watch?WHITEGIRL=AIzaSyBa-VabhhOceOIBbIOf5o9pcUkhP6qSDlc&v=q_hBf1ghAGE&list=PLcq6prxrEEUrogAxV3vptY16QpKUFQyYb&index=65&t=0s
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
